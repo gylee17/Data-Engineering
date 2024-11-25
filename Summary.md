@@ -1,1 +1,1 @@
-This repository contains all code related to Data Engineering.
+This repository contains all the code and project work related to the Data Engineering Platforms class at the University of Chicago. It includes implementations, assignments, and hands-on exercises covering key concepts and tools in data engineering.
